@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Srikanth</title>
+</head>
+<body>
+<h1>Hello,CodeSchool</h1>
+<ul>
+<li>java</li>
+</ul>
+</body>
+</html>
